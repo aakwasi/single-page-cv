@@ -1,7 +1,7 @@
 # My CV Website
 
 ## Project URL
-https://shark.github.io/my-cv-website/
+https://github.com/aakwasi/single-page-cv
 
 ## Description
 This is a simple HTML-only website with multiple pages including:
